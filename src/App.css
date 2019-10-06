@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+  font-weight: inherit;
+}
