@@ -28,5 +28,15 @@
 
 .green {
   color: green;
-  font-weight: inherit;
+  font-style: italic;
+}
+
+.ex {
+  background-color: blue
+}
+
+@media (max-width: 400px) {
+  .App{
+    width:250px
+  }
 }
